@@ -4,3 +4,6 @@ def si(p,r,t):
 
 def amount(p,r,t):
   pass
+
+#main
+pass
